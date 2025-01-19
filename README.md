@@ -14,6 +14,3 @@ This project leveraging the `pytrends` library to analyze and visualize Google T
 ##Install the required packages:
 - pip install -r requirements.txt
 
-##View the visualizations:
--A bar chart showing the top 10 regions.
--A time series graph showing interest over time.
